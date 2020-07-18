@@ -1,4 +1,6 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World  
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World 
+
+I am a final year undergraduate from GGSIPU, New Delhi. I work in deep learning and computer vision.
 
 <!--
 **adityak2920/adityak2920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
