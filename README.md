@@ -21,4 +21,3 @@ I am a final year undergraduate from GGSIPU, New Delhi. I work in deep learning 
 - 💬 Ask me about anything related to deep learning and computer vision.
 
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityak2920&show_icons=true&hide_border=true)
