@@ -15,7 +15,7 @@
 I am a final year undergraduate from GGSIPU, New Delhi. I work in deep learning and computer vision.
 
 
-- 🔭 I’m currently working as a Research Intern at Retail Pulse.
+- 🔭 I’m currently working as a ML Engineer at Retail Pulse.
 - 🌱 I’m currently learning about algorithms and different object trackers.
 - 👯 I’m looking to collaborate on building libraries using PyTorch or on a research paper.
 - 💬 Ask me about anything related to deep learning and computer vision.
