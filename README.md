@@ -11,6 +11,7 @@
     <img align="left" alt="Aditya Kumar | Gmail" width="26px" src="https://github.com/adityak2920/adityak2920/blob/master/assets/Gmail.svg" />
   </a>
 <br><br>
+![](https://komarev.com/ghpvc/?username=vasu2001)
 
 I am a final year undergraduate from GGSIPU, New Delhi. I work in deep learning and computer vision.
 
