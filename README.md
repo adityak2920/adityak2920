@@ -13,11 +13,11 @@
 
 ![](https://komarev.com/ghpvc/?username=adityak2920)
 
-Software Engineer with **5 years of experience** building high-scale backend systems and Machine Learning products. Currently working at **Kirana Club** in Bangalore, building distributed systems that serve 3M+ users.
+Software Engineer with **5 years of experience** building high-scale backend systems and Machine Learning products. Currently working at **Kirana Club** in Bangalore, building systems that serve 3M+ users.
 
 - 🔭 **Currently:** Building high-performance backend services (Go, PostgreSQL, ClickHouse) and geospatial systems at scale
 - 🚀 **Experience:** Backend engineering, distributed systems, computer vision, and deep learning
-- 🛠️ **Tech Stack:** Golang, Python, PostgreSQL, Redis, Kafka, Docker, Kubernetes, PyTorch
+- 🛠️ **Tech Stack:** Golang, Python, PostgreSQL, Redis, RabbitMQ, Docker, Kubernetes, PyTorch
 - 🧠 **Expertise:** System design, spatial indexing (Uber H3), self-managed data infrastructure (ClickHouse), ML model serving
 - 🎓 **Education:** B.Tech in Electronics and Communication from GGSIPU, New Delhi
 - 🌱 **Learning:** Advanced distributed systems, database internals, and real-time analytics
